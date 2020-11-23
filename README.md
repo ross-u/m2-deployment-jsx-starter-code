@@ -226,4 +226,4 @@ authRouter.post('/signup', parser.single('profilepic'), (req, res, next) => {
 
 ### Documentation
 
-[Cloudinary](
+[Cloudinary](https://cloudinary.com/documentation)
